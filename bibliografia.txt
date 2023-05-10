@@ -1,2 +1,0 @@
-Entornos de desarollo 1
-realizando cambios desde master local
